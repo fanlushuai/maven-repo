@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.open</groupId>
+  <artifactId>mybatis-plus-generator-fix</artifactId>
+  <versioning>
+    <release>3.1.1.1.fix</release>
+    <versions>
+      <version>3.1.1.1.fix</version>
+    </versions>
+    <lastUpdated>20190423031743</lastUpdated>
+  </versioning>
+</metadata>
