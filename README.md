@@ -1,5 +1,5 @@
 # maven-repo
-maven 仓库
+maven 仓库【貌似访问不到了，具体原因未分析】
 
 <repositories>
 
